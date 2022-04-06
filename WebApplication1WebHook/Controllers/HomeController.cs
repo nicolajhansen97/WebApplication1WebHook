@@ -80,7 +80,7 @@ namespace WebApplication1WebHook.Controllers
 
 
 
-        private String secret = "Lykke2308!!";
+        private String secret = "PASSWORD";
     }
 
     class Test
