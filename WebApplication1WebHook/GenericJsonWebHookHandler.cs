@@ -19,7 +19,7 @@ namespace WebApplication1WebHook
 
         public async override Task ExecuteAsync(string receiver, WebHookHandlerContext context)
         {
-            string secret = "Lykke2308!!";
+            string secret = "PASSWORD";
 
 
 
